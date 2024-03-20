@@ -62,14 +62,14 @@
 |  Домашнее задание DO1.4   | [ Лабораторная работа-0.4](7_TCP_server)   | настроить .gitignore, удалить лишнее| 2    |
 | Семинар DO1.0 от 05.02-11.02  | [ Лабораторная работа-0.5 ](7_TCP_server/README.md)  | субмодуль git submodule     | -    |
 |  [Лекция NP1.1](https://youtu.be/UTalhmE_WcI?si=jqIVOyhYmaLaeufX)   |[ Лабораторная работа-1.1](https://github.com/fa-python-network/1_echo_server)   | echo-server     | 3    |
-|  Семинар NP1.1 от 12.02-18.02   |[ Лабораторная работа-1.2 ](1_echo_server/задание2/README.md)   |  echo-client  + telnet/putty   | -    |
+|  [Семинар NP1.1 от 12.02-18.02](https://my.mts-link.ru/91808573/615237738/record-new/686521937)   |[ Лабораторная работа-1.2 ](1_echo_server/задание2/README.md)   |  echo-client  + telnet/putty   | -    |
 | Домашнее задание NP1.1  | [ Лабораторная работа-1.3](1_echo_server/README.md)   |  live stream video server    | -    |
 |  Семинар NP1.2    |[Лабораторная работа-5.1](5_FTP_server/README.md)  | ftp-сервер (файлы output+file1)     | -    |
 |  Домашнее задание NP1.2   |[ Лабораторная работа-5.2](https://github.com/fa-python-network/5_FTP_server)  | файловый менеджер    | 2    |
 | Семинар NP4.4 от 19.02-25.02  | [  Лабораторная работа-4.1](4_requests)  | Postman  (запросы к ruz.fa.ru и к echo-server)   | -    |
 | [Лекция NP4.4](https://youtu.be/mtq-NRC5Wmk?si=5Mq4c4FXd9ridGSg)  | [ Лабораторная работа-4.2](4_requests)   | код http-клиента из Postman   | 2    |
 | [Лекция NP4.5](https://youtu.be/AWi9_OEOojI?si=PtUD0SV0z0e61_ct) | [ Лабораторная работа-6.1](https://github.com/fa-python-network/6_Web_server)   | Низкоуровневая работа с веб  | 3    |
-| Семинар NP4.5 от 26.02-3.03  | [  Лабораторная работа-6.2](6_Web_server/README1.md)  | Веб-сервер HTTP Часть1 (webserver1)  | -    |
+| [Семинар NP4.5 от 26.02-3.03](https://my.mts-link.ru/91808573/1190044298/record-new/1291998512) [(2дубль)](https://my.mts-link.ru/91808573/2031631956/record-new/1178732407)  | [  Лабораторная работа-6.2](6_Web_server/README1.md)  | Веб-сервер HTTP Часть1 (webserver1)  | -    |
 | Домашнее задание NP4.5  | [ Лабораторная работа-6.3](6_Web_server/README2.md)   | Веб-сервер HTTP  Часть2 (фреймворк+вебсервер)  | -    |
 | [Лекция NP2.1](https://youtu.be/_FYcL3tYKec?si=k3cdS1k2qlsWds6E)  | [ Лабораторная работа-2.2 ](https://github.com/fa-python-network/2_threaded_server)  | threaded server    | 3    |
 | Семинар NP2.1 от 11.03-17.03  | [  Лабораторная работа-7.1](https://github.com/VladimirAndropov/7_TCP_server)  | UDP/TCP-threaded-сервер      | -    |
