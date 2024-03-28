@@ -1,0 +1,73 @@
+2024-03-21 22:51:10,981 - INFO - Прослушиваем порт 9090
+2024-03-21 22:51:14,285 - INFO - Получен запрос: Mashirov=loginMashirov=password\=cur_dir0=file_sizemkdir test1
+2024-03-21 22:51:14,286 - INFO - Создана директория пользователя: /Users/danya/Documents/Python/ftp_server/Mashirov
+2024-03-21 22:51:14,286 - INFO - Создана директория: /Users/danya/Documents/Python/ftp_server/Mashirov/test1
+2024-03-21 22:51:14,286 - INFO - Ответ: Успешно
+2024-03-21 22:51:14,286 - INFO - Ответ отправлен
+2024-03-21 22:51:14,286 - INFO - Получен запрос: Mashirov=loginMashirov=password\=cur_dir0=file_sizecd ...../test1
+2024-03-21 22:51:14,286 - INFO - Ответ: \
+2024-03-21 22:51:14,286 - INFO - Ответ отправлен
+2024-03-21 22:51:14,287 - INFO - Получен запрос: Mashirov=loginMashirov=password\=cur_dir0=file_sizecd ./test1
+2024-03-21 22:51:14,287 - INFO - Переход в директорию: /Users/danya/Documents/Python/ftp_server/Mashirov/./test1
+2024-03-21 22:51:14,287 - INFO - Ответ: /test1\
+2024-03-21 22:51:14,287 - INFO - Ответ отправлен
+2024-03-21 22:51:14,288 - INFO - Получен запрос: Mashirov=loginMashirov=password/test1\=cur_dir0=file_sizemkdir ../test1/test11
+2024-03-21 22:51:14,288 - INFO - Создана директория: /Users/danya/Documents/Python/ftp_server/Mashirov/test1\/../test1/test11
+2024-03-21 22:51:14,288 - INFO - Ответ: Успешно
+2024-03-21 22:51:14,288 - INFO - Ответ отправлен
+2024-03-21 22:51:14,289 - INFO - Получен запрос: Mashirov=loginMashirov=password/test1\=cur_dir0=file_sizels
+2024-03-21 22:51:14,289 - INFO - Ответ: 
+2024-03-21 22:51:14,289 - INFO - Ответ отправлен
+2024-03-21 22:51:14,289 - INFO - Получен запрос: Mashirov=loginMashirov=password/test1\=cur_dir0=file_sizepwd
+2024-03-21 22:51:14,290 - INFO - Ответ: /test1\
+2024-03-21 22:51:14,290 - INFO - Ответ отправлен
+2024-03-21 22:51:14,290 - INFO - Получен запрос: Mashirov=loginMashirov=password/test1\=cur_dir0=file_sizermtree test11
+2024-03-21 22:51:14,290 - INFO - Ответ: Неверный путь
+2024-03-21 22:51:14,290 - INFO - Ответ отправлен
+2024-03-21 22:51:14,291 - INFO - Получен запрос: Mashirov=loginMashirov=password/test1\=cur_dir0=file_sizels
+2024-03-21 22:51:14,291 - INFO - Ответ: 
+2024-03-21 22:51:14,291 - INFO - Ответ отправлен
+2024-03-21 22:51:14,291 - INFO - Получен запрос: Mashirov=loginMashirov=password/test1\=cur_dir0=file_sizetouch 1.txt
+2024-03-21 22:51:14,291 - INFO - Создан пустой файл: /Users/danya/Documents/Python/ftp_server/Mashirov/test1\/1.txt
+2024-03-21 22:51:14,291 - INFO - Ответ: Успешно
+2024-03-21 22:51:14,291 - INFO - Ответ отправлен
+2024-03-21 22:51:14,292 - INFO - Получен запрос: Mashirov=loginMashirov=password/test1\=cur_dir0=file_sizerename 1.txt 11.txt
+2024-03-21 22:51:14,292 - INFO - Файл или директория переименована: /Users/danya/Documents/Python/ftp_server/Mashirov/test1\/1.txt -> /Users/danya/Documents/Python/ftp_server/Mashirov/test1\/11.txt
+2024-03-21 22:51:14,292 - INFO - Ответ: Успешно
+2024-03-21 22:51:14,292 - INFO - Ответ отправлен
+2024-03-21 22:51:14,292 - INFO - Получен запрос: Mashirov=loginMashirov=password/test1\=cur_dir0=file_sizels
+2024-03-21 22:51:14,292 - INFO - Ответ: 11.txt
+2024-03-21 22:51:14,292 - INFO - Ответ отправлен
+2024-03-21 22:51:14,293 - INFO - Получен запрос: Mashirov=loginMashirov=password/test1\=cur_dir0=file_sizeremove 1.txt
+2024-03-21 22:51:14,293 - INFO - Ответ: Неверный путь
+2024-03-21 22:51:14,293 - INFO - Ответ отправлен
+2024-03-21 22:51:14,293 - INFO - Получен запрос: Mashirov=loginMashirov=password/test1\=cur_dir0=file_sizecat 1.txt
+2024-03-21 22:51:14,293 - INFO - Ответ: Неверный путь
+2024-03-21 22:51:14,293 - INFO - Ответ отправлен
+2024-03-21 22:51:14,294 - INFO - Получен запрос: Mashirov=loginMashirov=password/test1\=cur_dir0=file_sizecat 11.txt
+2024-03-21 22:51:14,294 - INFO - Ответ: 
+2024-03-21 22:51:14,294 - INFO - Ответ отправлен
+2024-03-21 22:51:14,294 - INFO - Получен запрос: Mashirov=loginMashirov=password/test1\=cur_dir0=file_sizecd ////
+2024-03-21 22:51:14,294 - INFO - 
+2024-03-21 22:51:14,294 - INFO - Переход в директорию: /Users/danya/Documents/Python/ftp_server/Mashirov/
+2024-03-21 22:51:14,294 - INFO - Ответ: \
+2024-03-21 22:51:14,294 - INFO - Ответ отправлен
+2024-03-21 22:51:14,295 - INFO - Получен запрос: Mashirov=loginMashirov=password\=cur_dir0=file_sizepwd
+2024-03-21 22:51:14,295 - INFO - Ответ: \
+2024-03-21 22:51:14,295 - INFO - Ответ отправлен
+2024-03-21 22:51:14,295 - INFO - Получен запрос: Mashirov=loginMashirov=password\=cur_dir0=file_sizecd \
+2024-03-21 22:51:14,295 - INFO - 
+2024-03-21 22:51:14,295 - INFO - Переход в директорию: /Users/danya/Documents/Python/ftp_server/Mashirov/
+2024-03-21 22:51:14,295 - INFO - Ответ: \
+2024-03-21 22:51:14,295 - INFO - Ответ отправлен
+2024-03-21 22:51:14,296 - INFO - Получен запрос: Mashirov=loginMashirov=password\=cur_dir0=file_sizepwd
+2024-03-21 22:51:14,296 - INFO - Ответ: \
+2024-03-21 22:51:14,296 - INFO - Ответ отправлен
+2024-03-21 22:51:14,296 - INFO - Получен запрос: Mashirov=loginMashirov=password\=cur_dir0=file_sizermtree test1
+2024-03-21 22:51:14,296 - INFO - Удалена директория: /Users/danya/Documents/Python/ftp_server/Mashirov/test1
+2024-03-21 22:51:14,296 - INFO - Ответ: Успешно
+2024-03-21 22:51:14,296 - INFO - Ответ отправлен
+2024-03-21 22:51:14,297 - INFO - Получен запрос: Mashirov=loginMashirov=password\=cur_dir0=file_sizels
+2024-03-21 22:51:14,297 - INFO - Ответ: test1\
+2024-03-21 22:51:14,297 - INFO - Ответ отправлен
+2024-03-21 22:51:23,514 - INFO - Процесс завершен по запросу пользователя
