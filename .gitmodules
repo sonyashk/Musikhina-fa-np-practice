@@ -322,3 +322,9 @@
 [submodule "pi22-2/Ermakov_fa-np-practice"]
 	path = pi22-2/Ermakov_fa-np-practice
 	url = https://github.com/vladermik/Ermakov_fa-np-practice
+[submodule "pi22-2/Trunov-fa-np-practice"]
+	path = pi22-2/Trunov-fa-np-practice
+	url = https://github.com/JuanTrunov/Trunov-fa-np-practice
+[submodule "pi22-2/samoylov_fa-np-practice"]
+	path = pi22-2/samoylov_fa-np-practice
+	url = https://github.com/GodWar101/samoylov_fa-np-practice
