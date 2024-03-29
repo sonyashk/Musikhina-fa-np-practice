@@ -319,3 +319,6 @@
 [submodule "pi22-3/She"]
 	path = pi22-3/She
 	url = https://github.com/Megamanek/She
+[submodule "pi22-2/Ermakov_fa-np-practice"]
+	path = pi22-2/Ermakov_fa-np-practice
+	url = https://github.com/vladermik/Ermakov_fa-np-practice
