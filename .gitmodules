@@ -328,3 +328,6 @@
 [submodule "pi22-2/samoylov_fa-np-practice"]
 	path = pi22-2/samoylov_fa-np-practice
 	url = https://github.com/GodWar101/samoylov_fa-np-practice
+[submodule "pi22-3/fa-np-practice"]
+	path = pi22-3/fa-np-practice
+	url = https://github.com/MrDrups/fa-np-practice
