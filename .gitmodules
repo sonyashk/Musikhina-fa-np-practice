@@ -340,3 +340,12 @@
 [submodule "pi22-3/Vyatkin_practice"]
 	path = pi22-3/Vyatkin_practice
 	url = https://github.com/MrDrups/Vyatkin_practice
+[submodule "pi22-1/Gizatulin-fa-np-practice"]
+	path = pi22-1/Gizatulin-fa-np-practice
+	url = https://github.com/Butcher044/Gizatulin-fa-np-practice
+[submodule "pi22-1/Kobyakova-fa-np-practice"]
+	path = pi22-1/Kobyakova-fa-np-practice
+	url = https://github.com/piccologatto01/Kobyakova-fa-np-practice
+[submodule "pi22-1/Manapovfa-np-practice"]
+	path = pi22-1/Manapovfa-np-practice
+	url = https://github.com/Kami11144/Manapovfa-np-practice
