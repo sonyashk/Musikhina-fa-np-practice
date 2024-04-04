@@ -331,3 +331,12 @@
 [submodule "pi22-3/fa-np-practice"]
 	path = pi22-3/fa-np-practice
 	url = https://github.com/MrDrups/fa-np-practice
+[submodule "pi22-1/Kugach-fa-np-practice"]
+	path = pi22-1/Kugach-fa-np-practice
+	url = https://github.com/Con2023/Kugach-fa-np-practice
+[submodule "pi22-4/Obukhov"]
+	path = pi22-4/Obukhov
+	url = https://github.com/Ilyawysy/Obukhov
+[submodule "pi22-3/Vyatkin_practice"]
+	path = pi22-3/Vyatkin_practice
+	url = https://github.com/MrDrups/Vyatkin_practice
