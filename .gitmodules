@@ -352,3 +352,6 @@
 [submodule "pi22-1/Stankovskiy-fa-np-practice"]
 	path = pi22-1/Stankovskiy-fa-np-practice
 	url = https://github.com/XJIE6yIlIek/Stankovskiy-fa-np-practice
+[submodule "pi22-2/Chetyrkina_MA_fa-np-practice"]
+	path = pi22-2/Chetyrkina_MA_fa-np-practice
+	url = https://github.com/mariiachet/Chetyrkina_MA_fa-np-practice
