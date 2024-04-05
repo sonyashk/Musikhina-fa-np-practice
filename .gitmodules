@@ -355,9 +355,6 @@
 [submodule "pi22-2/Chetyrkina_MA_fa-np-practice"]
 	path = pi22-2/Chetyrkina_MA_fa-np-practice
 	url = https://github.com/mariiachet/Chetyrkina_MA_fa-np-practice
-[submodule "pi22-2/FTPs"]
-	path = pi22-2/FTPs
-	url = https://github.com/Cpsuls/FTPs
-[submodule "pi22-2/fa-np-practice"]
-	path = pi22-2/fa-np-practice
-	url = https://github.com/Kami1ot/fa-np-practice
+[submodule "pi22-2/Ovchinnikvo_fa-np-practice"]
+	path = pi22-2/Ovchinnikvo_fa-np-practice
+	url = https://github.com/Kami1ot/Ovchinnikvo_fa-np-practice
