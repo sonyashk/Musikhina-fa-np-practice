@@ -361,3 +361,9 @@
 [submodule "pi22-1/Tarabanovskiy-fa-np-practice"]
 	path = pi22-1/Tarabanovskiy-fa-np-practice
 	url = https://github.com/Tarabanovskiy/Tarabanovskiy-fa-np-practice
+[submodule "pi22-1/kudryavtsev-fa-np-practice2"]
+	path = pi22-1/kudryavtsev-fa-np-practice2
+	url = https://github.com/EgorKudryavtsev/kudryavtsev-fa-np-practice2
+[submodule "pi22-1/Musikhina-fa-np-practice"]
+	path = pi22-1/Musikhina-fa-np-practice
+	url = https://github.com/sonyashk/Musikhina-fa-np-practice
