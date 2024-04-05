@@ -358,3 +358,6 @@
 [submodule "pi22-2/Ovchinnikvo_fa-np-practice"]
 	path = pi22-2/Ovchinnikvo_fa-np-practice
 	url = https://github.com/Kami1ot/Ovchinnikvo_fa-np-practice
+[submodule "pi22-1/Tarabanovskiy-fa-np-practice"]
+	path = pi22-1/Tarabanovskiy-fa-np-practice
+	url = https://github.com/Tarabanovskiy/Tarabanovskiy-fa-np-practice
